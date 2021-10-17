@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <PackageId>SenseHatText</PackageId>
+    <PackageDescription>Sense Hat Show Text and Letter Functions</PackageDescription>
+    <Version>0.1.0</Version>
+    <Authors>sanme98</Authors>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageLicenseExpression>BSD-3-Clause</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/sanme98/dotnet-sense-hat-text</PackageProjectUrl>
+    <Description>Sense Hat Show Text and Letter Functions</Description>
+    <RepositoryUrl>https://github.com/sanme98/dotnet-sense-hat-text</RepositoryUrl>
+    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Iot.Device.Bindings" Version="1.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="sense_hat_text.png" />
+    <EmbeddedResource Include="sense_hat_text.txt" />
+  </ItemGroup>
+
+</Project>
