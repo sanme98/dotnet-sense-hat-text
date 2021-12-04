@@ -1,17 +1,16 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>net5.0</TargetFramework>
+    <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <PackageId>SenseHatText</PackageId>
-    <PackageDescription>Sense Hat Show Text and Letter Functions</PackageDescription>
     <Version>0.1.0</Version>
     <Authors>sanme98</Authors>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    <PackageLicenseExpression>BSD-3-Clause</PackageLicenseExpression>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageProjectUrl>https://github.com/sanme98/dotnet-sense-hat-text</PackageProjectUrl>
-    <Description>Sense Hat Show Text and Letter Functions</Description>
+    <Description>A library to show scrolling text messages or a letter on Sense Hat using Iot.Device.Bindings.</Description>
     <RepositoryUrl>https://github.com/sanme98/dotnet-sense-hat-text</RepositoryUrl>
     <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
   </PropertyGroup>
