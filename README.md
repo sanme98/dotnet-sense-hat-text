@@ -7,4 +7,7 @@ https://www.nuget.org/packages/SenseHatText/
 dotnet add package SenseHatText
 
 ## YouTube Demo Video
-[![Watch the video](https://i9.ytimg.com/vi/gaojDCmnDno/mqdefault.jpg?sqp=CMSusI0G&rs=AOn4CLC7HE2GZaHgQ2duQeJbJOjwXWj_Tg)](https://youtu.be/gaojDCmnDno)
+https://youtu.be/gaojDCmnDno
+
+## Project Brief Explanation
+https://mycsharpdeveloper.wordpress.com/2021/12/05/pi-sense-hat-scrolling-text-using-net/
